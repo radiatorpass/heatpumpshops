@@ -4,13 +4,13 @@
 - https://www.shopclima.it
 - https://tavolla.com
 - https://www.gm-termoidraulica.it
-- https://www.climaconvenienza.it/
+- https://www.climaconvenienza.it
 - https://www.climamarket.it / https://climamarket.com
 - https://www.convienesempre.it
 - https://idraulica.it
 - https://www.0co2.it
-- https://www.climaway.it/
-- https://www.clima-inverter.com/
+- https://www.climaway.it
+- https://www.clima-inverter.com
 
 ## France
 - https://www.maison-energy.com
@@ -29,23 +29,25 @@
 - https://www.instaladoratermica.com
 - https://www.climamania.com
 - https://www.ecoclimagroup.com
-- 
+
 ## Portugal
 - https://klima.pt
 
 ## Germany
-- https://www.rjtec-shop.eu/de/
-- https://www.buztecshop.com/ 
+- https://www.rjtec-shop.eu
+- https://www.buztecshop.com
 - https://derofenfuchs.de
 - https://klimacorner.de
 - https://klivago.de/waermepumpen
 - https://www.meinhausshop.de/Waermepumpen
-- https://www.selfio.de/
+- https://www.selfio.de
 - https://www.breeze24.com/waermepumpen/
 - https://www.heima24.de
 - https://www.heizungsdiscount24.de/waermepumpen/
 - https://www.klimaworld.com/heizen/heizung/waermepumpen-sets.html
 - https://www.schiessl-kaelte.com
+- https://www.wolf-online-shop.de
+- https://wepit.de
 
 ## Austria
 - https://climastore.at/waermepumpen/
@@ -59,6 +61,8 @@
 - https://www.gs-klima.at/daikin-waermepumpen/
 - https://www.heizprofishop.at
 - https://www.buztecshop.com
+- https://shop.ssp-products.at
+- https://warmkalt.at
 
 ## Slovakia
 - https://teplozima.sk
@@ -80,7 +84,9 @@
 ## Romania
 ## Slovenia
 ## Croatia
- - https://www.ri-klima.hr/
+ - https://www.ri-klima.hr
 ## Bulgaria
 ## Greece
+## Poland
+ - https://cooperhunter.pl
 ## Unsorted
