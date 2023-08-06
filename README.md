@@ -70,7 +70,7 @@
 ## Finland
 ## Sweden
 ## Denmark
-## Norvegia
+## Norway
 ## UK
  - https://midsummerwholesale.co.uk
 ## Ireland
