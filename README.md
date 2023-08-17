@@ -28,8 +28,7 @@
 - https://suministrosclimafrio.es
 - https://tuclimatizaciononline.es
 - https://www.gasfriocalor.com
-- https://www.instaladoratermica.com
-- https://www.climamania.com
+- https://www.climamania.com/bombas-de-calor-aerotermia/bombas-de-calor-para-calefaccion/
 - https://www.ecoclimagroup.com
 
 ## Portugal
@@ -37,7 +36,6 @@
 
 ## Germany
 - https://www.rjtec-shop.eu
-- https://www.buztecshop.com
 - https://derofenfuchs.de
 - https://klimacorner.de
 - https://klivago.de/waermepumpen
@@ -50,17 +48,17 @@
 - https://www.schiessl-kaelte.com
 - https://www.wolf-online-shop.de
 - https://wepit.de
+- https://warmandcold-shop.de/
+- https://tga-shop.de/waermepumpen/
 
 ## Austria
 - https://climastore.at/waermepumpen/
 - https://heizungsshop.at/waermepumpe/
 - https://klimafreak.at
 - https://westech.at/collections/warmepumpen
-- https://www.arktis.at/waermepumpe/luft-wasser-waermepumpe/
 - https://www.badshop-austria.at/heizung/waermeerzeuger/waermepumpen-4074/
 - https://shop.onstallateur.at/heizung/waermepumpen/
 - https://shop.reitbauer-haustechnik.at
-- https://www.gs-klima.at/daikin-waermepumpen/
 - https://www.heizprofishop.at
 - https://www.buztecshop.com
 - https://shop.ssp-products.at
@@ -104,6 +102,9 @@
 
 ## UK
  - https://midsummerwholesale.co.uk
+ - https://www.cityplumbing.co.uk/c/product/energy-efficiency/heat-pumps/air-source-heat-pumps/c/1800139/
+ - https://www.swatengineering.co.uk/shop/mitsubishi-electric-ecodan-air-source-heating
+ - https://www.swatengineering.co.uk/shop/daikin-altherma-heating
 
 ## Ireland
 
@@ -117,6 +118,7 @@
  - https://www.warmtepompen-webshop.nl/webshop-warmtepompen/lucht-water-warmtepomp/vaillant-lucht-water-warmtepomp
  - https://www.123klimaatshop.nl/product-category/warmtepomp/lucht-water-warmtepomp/
  - https://www.klimate.nl/warmtepompen/luchtwater-warmtepompen.html
+ - https://rensa.nl/
 
 ## Luxembourg
 
@@ -159,5 +161,6 @@
  - https://armatura24.pl/powietrzne-pompy-ciepla-typu-monoblok
  - https://www.kupklimatyzator.pl/Katalog_produktow/12/Pompy_ciepla/
  - https://satsklep.pl/pl/c/Pompy-ciepla/464
+ - https://24hydromet.pl/
 
 ## Unsorted
