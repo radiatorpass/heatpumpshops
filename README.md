@@ -21,6 +21,7 @@
 - https://www.manomano.fr
 - https://www.energieclim.com
 - https://lecomptoirdesenergies.com/227-pac-basse-temperature
+- https://www.amifrigo.com/
 
 ## Spain
 - https://www.climamarket.eu
@@ -95,6 +96,7 @@
  - https://www.novasolar.dk/4-luft-til-vand-varmepumper
  - https://varmepumpesalg-webshop.dk/varmepumpe-luft-vand-92/
  - https://www.novasolar.dk/4-luft-til-vand-varmepumper
+ - https://www.sk-varmepumper.dk
  - https://coolenergi.dk/kategori/varmepumper/
  - https://www.billigvvs.dk/Tekniske-installationer-Varmeventilation-Varmepumper-Luft-vand-varmepumper.html
 
@@ -105,6 +107,8 @@
  - https://www.cityplumbing.co.uk/c/product/energy-efficiency/heat-pumps/air-source-heat-pumps/c/1800139/
  - https://www.swatengineering.co.uk/shop/mitsubishi-electric-ecodan-air-source-heating
  - https://www.swatengineering.co.uk/shop/daikin-altherma-heating
+ - https://refrigerationcomponents.co.uk/
+ - https://www.wolseley.co.uk/renewables/air-source-heat-pumps/air-to-water-heat-pumps/
 
 ## Ireland
 
