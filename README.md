@@ -12,6 +12,8 @@
 - https://www.0co2.it
 - https://www.climaway.it
 - https://www.clima-inverter.com
+- https://www.zetaidraulica.it/pompe-di-calore/
+- https://elstica.it/35-pompe-di-calore
 
 ## France
 - https://www.maison-energy.com
@@ -22,6 +24,9 @@
 - https://www.energieclim.com
 - https://lecomptoirdesenergies.com/227-pac-basse-temperature
 - https://www.amifrigo.com/
+- https://www.cedeo.fr/c/pompes-a-chaleur-air-eau/x3snv3_dig_2024458R6
+- https://www.chauffage.fr/pompe-chaleur/air-eau
+- https://www.lefroid.fr/fr/Produits/Climatisation/
 
 ## Spain
 - https://www.climamarket.eu
@@ -31,6 +36,8 @@
 - https://www.gasfriocalor.com
 - https://www.climamania.com/bombas-de-calor-aerotermia/bombas-de-calor-para-calefaccion/
 - https://www.ecoclimagroup.com
+- https://climacoste.com/aerotermia
+- https://www.mercaclima.es
 
 ## Portugal
 - https://klima.pt
@@ -68,11 +75,17 @@
 ## Slovakia
 - https://teplozima.sk
 
+## Czech Republic
+ - https://aukro.cz 
+
 ## Hungary
  - https://www.ecodanshop.hu/
+ - https://www.keveklima.hu/hoszivattyu
+ - https://www.klima-hatvan.hu
 
 ## Switzerland
  - https://www.sutertech-shop.ch/
+ - https://installateur-shop.ch/
 
 ## Estonia
 - https://prokliima.ee
@@ -138,6 +151,8 @@
  - https://www.arenainstalatiilor.ro/pompe-de-caldura-c106-p1
  - https://www.emag.ro/search/pompa+caldura+aer+aer
  - https://www.romstal.ro/pompe-de-caldura-c1462000.html
+ - https://www.rosolar-shop.ro/pompe-de-caldura-aer-apa-c25-p1
+ - https://www.arenainstalatiilor.ro/
 
 ## Slovenia
  - https://www.lontech.si/toplotne_crpalke_zrak_voda
@@ -149,8 +164,10 @@
  - https://www.ri-klima.hr
  - https://www.fero-term.hr/category/grijanje/dizalice-topline/dizalice-topline-zrakvoda.html
  - https://klimatizacija.hr/proizvodi/dizalice-topline/
+ - https://mitella.hr
 
 ## Bulgaria
+ - https://www.climamarket.bg
 
 ## Greece
 
@@ -166,5 +183,7 @@
  - https://www.kupklimatyzator.pl/Katalog_produktow/12/Pompy_ciepla/
  - https://satsklep.pl/pl/c/Pompy-ciepla/464
  - https://24hydromet.pl/
+ - http://klima-sklep.pl/pompy-ciepla/
+ - https://czystyklimat.pl
 
 ## Unsorted
