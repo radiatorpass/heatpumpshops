@@ -26,7 +26,8 @@
 - https://www.amifrigo.com/
 - https://www.cedeo.fr/c/pompes-a-chaleur-air-eau/x3snv3_dig_2024458R6
 - https://www.chauffage.fr/pompe-chaleur/air-eau
-- https://www.lefroid.fr/fr/Produits/Climatisation/
+- https://www.lefroid.fr/fr/Produits/Climatisation/c/W_050
+- https://www.concept-energie-renouvelable.com/
 
 ## Spain
 - https://www.climamarket.eu
@@ -38,9 +39,15 @@
 - https://www.ecoclimagroup.com
 - https://climacoste.com/aerotermia
 - https://www.mercaclima.es
+- https://instaladoratermica.com
 
 ## Portugal
 - https://klima.pt
+- https://crdgas.com/categoria-produto/aquecimento/bombas-de-calor-aquecimento/
+- https://ambitemp.pt
+- https://hidrofase.pt
+- https://bestelectronics.pt
+- https://www.keroclima.pt/epages/960844166.sf/pt_PT/?ObjectPath=/Shops/960844166/Categories/Aquecimento/Midea
 
 ## Germany
 - https://www.rjtec-shop.eu
@@ -58,6 +65,7 @@
 - https://wepit.de
 - https://warmandcold-shop.de/
 - https://tga-shop.de/waermepumpen/
+- https://www.glo24.de
 
 ## Austria
 - https://climastore.at/waermepumpen/
@@ -88,7 +96,7 @@
  - https://installateur-shop.ch/
 
 ## Estonia
-- https://prokliima.ee
+- https://www.prokliima.ee/tootekategooria/ohk-vesi-soojuspumbad/
 
 ## Lituania
  - https://silumossiurbliai24.lt
@@ -127,6 +135,7 @@
 
 ## Belgium
  - https://www.warmtepomp-shop.be/c-3970757/lucht-water-warmtepompen/
+ - https://www.solyd.be/fr/chauffage/pompes-a-chaleur/pompe-a-chaleur-air-eau.html
 
 ## Netherlands
  - https://www.warmteservice.nl/Duurzaam/Warmtepomp/All-electric-lucht-water-warmtepomp/c/11094
