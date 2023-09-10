@@ -79,6 +79,7 @@
 - https://www.buztecshop.com
 - https://shop.ssp-products.at
 - https://warmkalt.at
+- https://www.sanitaerprofi.at
 
 ## Slovakia
 - https://teplozima.sk
@@ -130,6 +131,7 @@
  - https://www.swatengineering.co.uk/shop/daikin-altherma-heating
  - https://refrigerationcomponents.co.uk/
  - https://www.wolseley.co.uk/renewables/air-source-heat-pumps/air-to-water-heat-pumps/
+ - https://www.appliancesdirect.co.uk/ct/heating/heat-pumps
 
 ## Ireland
 
