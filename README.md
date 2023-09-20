@@ -23,7 +23,6 @@
 - https://www.manomano.fr
 - https://www.energieclim.com
 - https://lecomptoirdesenergies.com/227-pac-basse-temperature
-- https://www.amifrigo.com/
 - https://www.cedeo.fr/c/pompes-a-chaleur-air-eau/x3snv3_dig_2024458R6
 - https://www.chauffage.fr/pompe-chaleur/air-eau
 - https://www.lefroid.fr/fr/Produits/Climatisation/c/W_050
@@ -48,6 +47,7 @@
 - https://hidrofase.pt
 - https://bestelectronics.pt
 - https://www.keroclima.pt/epages/960844166.sf/pt_PT/?ObjectPath=/Shops/960844166/Categories/Aquecimento/Midea
+- https://www.amifrigo.com/
 
 ## Germany
 - https://www.rjtec-shop.eu
@@ -66,6 +66,8 @@
 - https://warmandcold-shop.de/
 - https://tga-shop.de/waermepumpen/
 - https://www.glo24.de
+- https://www.emax-haustechnik.de/waermepumpen/waermepumpen-konfigurator/
+- https://www.heiz24.de/Waermepumpen
 
 ## Austria
 - https://climastore.at/waermepumpen/
@@ -80,6 +82,7 @@
 - https://shop.ssp-products.at
 - https://warmkalt.at
 - https://www.sanitaerprofi.at
+- https://www.bauhaus.at/waermepumpen/c/10004622
 
 ## Slovakia
 - https://teplozima.sk
